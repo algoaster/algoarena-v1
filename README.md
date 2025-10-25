@@ -367,6 +367,3 @@ docker exec grid-redis redis-cli CONFIG SET maxmemory 512mb
 
 This project is for educational and research purposes. Use at your own risk. Trading involves substantial risk of loss.
 
----
-
-**Built by Devin AI** | [Devin Run Link](https://app.devin.ai/sessions/d30fb57c71344089bbc89d2c8304eec6)
